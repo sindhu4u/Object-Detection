@@ -1,3 +1,5 @@
 ultralytics
 streamlit
 cv2
+pillow
+os
